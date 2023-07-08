@@ -26,7 +26,9 @@ Education
 
 Experience
 ======
-* 2021-2023: Undergraduate Researcher
+* 2023.3-now: Undergraduate Researcher
+  * Following Dr.Xia for research on biological problems.
+* 2021.7-2023.2: Undergraduate Researcher
   * Xu-lab, The Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), SDU, Jinan, China
     
 
