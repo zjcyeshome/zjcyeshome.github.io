@@ -12,7 +12,7 @@ I am a fourth year student in Shandong University. During my undergraduate, I di
 
 Research Interest 
 ======
-My research interest lies in deep learning and machine learning with analysis of medical data for medical tasks.
+My research interest lies in machine learning with analysis of medical data for medical tasks and is to develop explanation technology for medical tasks.
 
 Getting started
 ======
