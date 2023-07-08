@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiancheng Zhang"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiancheng Zhang"
 description              : &description "personal description"
