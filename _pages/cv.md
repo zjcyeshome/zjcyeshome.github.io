@@ -37,3 +37,6 @@ Other Interests
 * Basketball
 * Running
 * Movies
+
+
+<a href="newCV.pdf">点击这里查看PDF文件</a>
