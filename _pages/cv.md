@@ -39,4 +39,4 @@ Other Interests
 * Movies
 
 
-[CV]:'newCV.pdf'
+[CV]('zjcyeshome/_pages/newCV.pdf')
