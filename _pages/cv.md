@@ -9,51 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+General Information
+======
+* Full Name : Jiancheng Zhang
+* Date of Birth : 4th December 2001
+* Languages : English, Chinese
+  
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor
+  * Shandong University, Jinan, China
+  * Artificial Intelligence in Software Engineering
+  * Advisor Yonghui Xu
+  * Comprehensive rank x/x, GPA rank x/x
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021-2023: Undergraduate Researcher
+  * Xu-lab, The Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), SDU, Jinan, China
+    
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
+Other Interests
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Basketball
+* Running
+* Movies
