@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year student in Shandong University. During my undergraduate, I did some medical informatics research and computational biology research. Please see my CV for more information.
+I am a fourth year student in Shandong University. During my undergraduate, I did some medical informatics research and computational biology research. Please see my CV for more details.
 
 Research Interest 
 ======
