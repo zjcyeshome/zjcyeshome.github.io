@@ -1,12 +1,12 @@
 ---
-title: "A Survey on Knowledge Enhanced EHR Data Mining"
+title: "EAPR: explainable and augmented patient representation learning for disease prediction"
 collection: publications
 permalink: /publication/2021-10-16-paper-title-number-1
-excerpt: 'Jiancheng Zhang, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu, Lizhen Cui'
-date: 2021-10-16
-venue: 'ICCSE(5)'
+excerpt: 'Jiancheng Zhang, Yonghui Xu, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang & Lizhen Cui '
+date: 2023-11-14
+venue: 'Health Information Science and Systems'
 ---
-This paper summarizes the literature on the applications of knowledge enhancement technology to EHR.
+This study introduces a novel and general patient representation learning model designed to learn generic patient representations for disease prediction.
 
-[Download paper here](https://dl.acm.org/doi/abs/10.1145/3503181.3503202)
+[Download paper here](https://link.springer.com/article/10.1007/s13755-023-00256-5)
 
