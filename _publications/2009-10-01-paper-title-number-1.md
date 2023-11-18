@@ -1,7 +1,7 @@
 ---
 title: "A Survey on Knowledge Enhanced EHR Data Mining"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-10-16-paper-title-number-1
 excerpt: 'Jiancheng Zhang, Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu, Lizhen Cui'
 date: 2021-10-16
 venue: 'ICCSE(5)'
