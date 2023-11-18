@@ -1,7 +1,7 @@
 ---
 title: "EAPR: explainable and augmented patient representation learning for disease prediction"
 collection: publications
-permalink: /publication/2021-10-16-paper-title-number-1
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Jiancheng Zhang, Yonghui Xu, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang & Lizhen Cui '
 date: 2023-11-14
 venue: 'Health Information Science and Systems'
