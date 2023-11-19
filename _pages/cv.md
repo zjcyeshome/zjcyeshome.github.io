@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV here](files/CV(final).pdf)
-{}
+[Download CV here](CV(final).pdf)
+
 
 General Information
 ======
