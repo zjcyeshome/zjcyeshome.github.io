@@ -21,7 +21,7 @@ Education
   * Shandong University, Jinan, China
   * Artificial Intelligence in Software Engineering
   * Advisor Yonghui Xu
-  * GPA rank 51/333
+    
 
 
 Experience
