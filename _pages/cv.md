@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV here]
-{zjcyeshome.github.io/files/CV(final).pdf}
+[Download CV here](files/CV(final).pdf)
+{}
 
 General Information
 ======
