@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download CV here]()
 {% include base_path %}
 
 General Information
