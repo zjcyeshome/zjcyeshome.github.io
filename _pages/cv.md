@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV here](/onefile/CV(final).pdf)
+[Download CV here](./onefile/CV(final).pdf)
 
 
 General Information
