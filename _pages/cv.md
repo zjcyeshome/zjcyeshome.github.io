@@ -4,7 +4,7 @@ title: "CV"
 
 author_profile: true
 redirect_from:
-  
+  - /resume
 ---
 [Download CV here](CV(final).pdf)
 
